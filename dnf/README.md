@@ -1,6 +1,6 @@
 # pypi-dnf
 
-Placeholder package to make the DNF Python API available through PyPI.
+Dummy package reserved for any future possibility of having DNF Python API available through PyPI. Installing this package will not be completed as it is intended to be empty therefore installation failure will be thrown.
 
 A number of DNF's dependencies (notable libdnf and libsolv) are currently
 only available as part of Linux distro packages.
