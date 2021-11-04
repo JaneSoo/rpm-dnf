@@ -9,7 +9,7 @@ if sys.argv[1] not in ('sdist'):
 
 setup(
     name='rpm',
-    version='0.0.3',
+    version='0.0.3.1',
     url='https://github.com/JaneSoo/rpm-dnf/',
     license='GPLv2+',
     author='RPM developers',
