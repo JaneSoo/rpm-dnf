@@ -5,7 +5,7 @@ with open('README.md', encoding='utf-8') as f:
     long_description = f.read()
 
 if sys.argv[1] not in ('sdist'):
-    raise RuntimeError("Install aborted - please install python-rpm from distributiong system.")
+    raise RuntimeError("Install aborted - please install python-rpm from distribution system.")
 
 setup(
     name='rpm',
